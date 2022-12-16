@@ -1,4 +1,6 @@
 # BAP-UAS
+Nama  : William
+Nim   : 03081200031
 Buat command crudGenerator :
 php artisan make:command CrudGenerator
 
